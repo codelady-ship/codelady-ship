@@ -3,7 +3,7 @@
   <br>
   Hi there 👋, I'm <span style="color:#8A2BE2">Antiqa Jalilova</span>
 </h1>
-<h3 align="center">💻 Software Developer | Full-Stack Developer | Passionate Learner</h3>
+<h3 align="center">💻 Software Developer | Full-Stack Developer | Lifelong Learner</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&width=500&lines=Creative+%26+modern+web+experiences...;Learning+every+day...;Collaborating+globally..." />
 </p>
