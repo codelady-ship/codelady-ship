@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/codelady-ship/codelady-ship/main/profile.jpg" width="120" style="border-radius:50%; border:2px solid #8A2BE2;" />
   <br>
   Hi there 👋, I'm <span style="color:#8A2BE2">Antiqa Jalilova</span>
 </h1>
